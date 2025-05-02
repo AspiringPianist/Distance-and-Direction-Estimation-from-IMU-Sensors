@@ -39,6 +39,8 @@ This project was developed as part of a Signal Processing course and focuses on 
 - **Validation**: GPS data used as ground truth for comparison.
 
 ## Results
+![scatter_estimated_vs_gps](https://github.com/user-attachments/assets/e226f05c-aee6-4720-a7c3-f67bef806ec6)
+![error_over_time](https://github.com/user-attachments/assets/e5c3327e-3d30-4faf-9630-22a7d19919a0)
 
 - **Distance Accuracy**: Achieved close alignment between accelerometer-based (421.14 m) and GPS-based (431.36 m) distance measurements.
 - **ML Performance**: Random Forest Regressor provided low MSE, indicating reliable velocity predictions.
@@ -46,6 +48,7 @@ This project was developed as part of a Signal Processing course and focuses on 
   - 2D path plots from accelerometer data.
   - Before and after noise removal plots.
   - Estimated vs. GPS speed and cumulative distance error over time.
+![report_fig_paths](https://github.com/user-attachments/assets/03a9d273-df04-4a74-885f-4c17955dc70f)
 
 ## Installation
 
