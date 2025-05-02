@@ -1,4 +1,3 @@
-```
 # Distance and Direction Estimation using Inertial Sensors
 
 ## Overview
@@ -129,4 +128,3 @@ distance-direction-estimation/
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
